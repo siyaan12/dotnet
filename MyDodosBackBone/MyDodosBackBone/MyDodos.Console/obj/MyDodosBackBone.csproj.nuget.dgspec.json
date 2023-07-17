@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Maharesh007\\MyDodos3.0\\MyDodosV3-API\\MyDodosBackBone\\MyDodosBackBone\\MyDodos.Console\\MyDodosBackBone.csproj": {}
+  },
+  "projects": {
+    "D:\\Maharesh007\\MyDodos3.0\\MyDodosV3-API\\MyDodosBackBone\\MyDodosBackBone\\MyDodos.Console\\MyDodosBackBone.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Maharesh007\\MyDodos3.0\\MyDodosV3-API\\MyDodosBackBone\\MyDodosBackBone\\MyDodos.Console\\MyDodosBackBone.csproj",
+        "projectName": "MyDodosBackBone",
+        "projectPath": "D:\\Maharesh007\\MyDodos3.0\\MyDodosV3-API\\MyDodosBackBone\\MyDodosBackBone\\MyDodos.Console\\MyDodosBackBone.csproj",
+        "packagesPath": "C:\\Users\\maharesh.c\\.nuget\\packages\\",
+        "outputPath": "D:\\Maharesh007\\MyDodos3.0\\MyDodosV3-API\\MyDodosBackBone\\MyDodosBackBone\\MyDodos.Console\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\maharesh.c\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.AspNetCore.Hosting": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.30, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

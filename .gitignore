@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/MyDodosAPI/MyDodos.API/bin/Debug/net6.0
+/MyDodosAPI/MyDodos.API/obj
+/MyDodosAPI/MyDodos.API/MyDodos.API.csproj.user
+/MyDodosAPI/MyDodos.Domain/bin/Debug/net6.0
+/MyDodosAPI/MyDodos.Domain/obj
+/MyDodosAPI/MyDodos.Repository/bin/Debug/net6.0
+/MyDodosAPI/MyDodos.Repository/obj
+/MyDodosAPI/MyDodos.Service/bin/Debug/net6.0
+/MyDodosAPI/MyDodos.Service/obj
+/MyDodosAPI/MyDodos.ViewModel/bin/Debug/net6.0
+/MyDodosAPI/MyDodos.ViewModel/obj
+/MyDodosAPI.sln.bak

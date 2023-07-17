@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MyDodosBackBone", "MyDodosBackBone", "{DE075BF3-EC0E-4615-8F33-DA22999A72F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDodosBackBone", "MyDodosBackBone\MyDodos.Console\MyDodosBackBone.csproj", "{116DD337-DEC0-4278-A730-8D69D22EF091}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{116DD337-DEC0-4278-A730-8D69D22EF091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{116DD337-DEC0-4278-A730-8D69D22EF091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{116DD337-DEC0-4278-A730-8D69D22EF091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{116DD337-DEC0-4278-A730-8D69D22EF091}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{116DD337-DEC0-4278-A730-8D69D22EF091} = {DE075BF3-EC0E-4615-8F33-DA22999A72F7}
+	EndGlobalSection
+EndGlobal
